@@ -76,8 +76,9 @@ header .top-section .child-menu{
 	display: block;
 }
 header .logo img{
-	width: 100%;
-	margin:0px auto;
+	width: 60%;
+	margin: 0px auto;
+	height: auto;
 }
 header .logo{
 	text-align: center;
